@@ -1,2 +1,2 @@
-# config-hyprland
- config hyprland for 42 cursus.
+# work-config
+ config hyprland and lazyvim for 42 cursus.
