@@ -1,0 +1,9 @@
+launchers : 
+- home folder : super + E
+- launch terminal : super + enter
+- launch web browser : super + F
+- launch settings : super + S
+
+windows :
+- close windows : alt + Q
+
